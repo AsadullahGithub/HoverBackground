@@ -41,8 +41,7 @@ span::before{
     box-shadow: 0 0 10px rgb(167, 10, 230),
     0 0 20px rgb(167, 10, 230),
     0 0 40px rgb(167, 10, 230),
-    0 0 60px rgb(167, 10, 230),
-    0 0 80px rgb(167, 10, 230);
+    0 0 60px rgb(167, 10, 230);
     border-radius: 50%;
     pointer-events: none;
     transition: 2s;
